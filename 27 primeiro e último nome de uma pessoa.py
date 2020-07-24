@@ -1,0 +1,5 @@
+nome = str(input('Informe seu nome: ')).strip()
+print('Muito prazer em te conhecer!')
+NomeDividido = nome.split()
+print(f'Seu primeiro nome é {NomeDividido[0]}.')
+print(f'Seu último nome é {NomeDividido[len(NomeDividido) - 1]}.')
