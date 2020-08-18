@@ -5,8 +5,8 @@ print(f'Seu nome em minúsculo: {nome.lower()}.')
 
 semEspaco = len(nome) - nome.count(' ')
 
-print('Seu nome tem ',semEspaco, 'letras.')
+print('Seu nome tem ', semEspaco, 'letras.')
 
 separado = nome.split()
 
-print('Seu primeiro nome tem ',separado[0], 'letras.')
+print('Seu primeiro nome tem ', separado[0], 'letras.')
