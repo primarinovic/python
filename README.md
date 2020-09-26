@@ -1,4 +1,4 @@
 # python
 
-Estudando Python através do Curso em Video.
+Estudando lógica de programação com Python através do Curso em Video.
 
